@@ -1,1 +1,0 @@
-# SEMrush-test-frontend
